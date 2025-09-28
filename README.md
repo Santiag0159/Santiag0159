@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Santiag0159/Santiag0159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, Soy Santiago! 👋
+ Soy estudiante universitario de programación 👨‍💻. Estoy aprendiendo y explorando el mundo del desarrollo de software, con ganas de mejorar cada día.
+No tengo experiencia profesional aún, pero me apasiona resolver problemas y crear cosas nuevas con código.
 
-Here are some ideas to get you started:
+📚 Lo que estoy aprendiendo: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes: C, HTML, CSS
+Actualmente explorando: JavaScript, Node.js
+
+Bases de datos: Conceptos básicos de SQL y modelado de datos.
+
+🎯 Objetivos
+
+Mejorar mis habilidades en programación y desarrollo web
+
+Aprender inglés técnico para leer documentación sin problemas
+
+Contribuir a proyectos y ganar experiencia real.
+
+🛠️ Proyectos en mi GitHub
+
+Aquí voy a ir subiendo pequeños proyectos, prácticas y ejercicios que haga en la universidad o por mi cuenta.
+Quiero que mi perfil muestre mi progreso como programador.
+
+📫 Cómo contactarme
+
+Email: santiago.nicolas1231@gmail.com 
+ 
+  
