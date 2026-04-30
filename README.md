@@ -1,30 +1,40 @@
+Hola, soy Santiago 
 
-# Hola, Soy Santiago! 👋
- Soy estudiante universitario de programación 👨‍💻. Estoy aprendiendo y explorando el mundo del desarrollo de software, con ganas de mejorar cada día.
-No tengo experiencia profesional aún, pero me apasiona resolver problemas y crear cosas nuevas con código.
+Soy estudiante de segundo año de la carrera de Programación.
+Me enfoco en desarrollo web y estoy construyendo mis habilidades tanto en frontend como en backend.
 
-📚 Lo que estoy aprendiendo: 
+Me interesa especialmente entender cómo funcionan las aplicaciones completas, desde la interfaz hasta el servidor.
 
-Lenguajes: C, HTML, CSS
-Actualmente explorando: JavaScript, Node.js
+ Tecnologías y conocimientos
 
-Bases de datos: Conceptos básicos de SQL y modelado de datos.
+Lenguajes:
+C, JavaScript, TypeScript, HTML, CSS
 
-🎯 Objetivos
+Backend:
+Node.js, Express.js
 
-Mejorar mis habilidades en programación y desarrollo web
+Bases de datos:
+SQL (conceptos básicos y modelado de datos)
 
-Aprender inglés técnico para leer documentación sin problemas
+Otros:
+Conceptos básicos de Java
+Estructuras de datos y lógica de programación
 
-Contribuir a proyectos y ganar experiencia real.
+ Actualmente aprendiendo
+Arquitectura MVC en aplicaciones con Express
+Manejo de rutas, controladores y middlewares
+Buenas prácticas en desarrollo web
+ Objetivos
+Seguir mejorando como desarrollador full stack
+Construir proyectos más completos y estructurados
+Aprender inglés técnico para trabajar con documentación y equipos internacionales
+Conseguir mi primera experiencia profesional en desarrollo
+ Proyectos
 
-🛠️ Proyectos en mi GitHub
+En este perfil vas a encontrar proyectos de práctica, trabajos universitarios y desarrollos personales.
+Mi objetivo es mostrar mi progreso real como programador y aplicar lo que voy aprendiendo.
 
-Aquí voy a ir subiendo pequeños proyectos, prácticas y ejercicios que haga en la universidad o por mi cuenta.
-Quiero que mi perfil muestre mi progreso como programador.
+Contacto
 
-📫 Cómo contactarme
+Email: santiago.nicolas1231@gmail.com
 
-Email: santiago.nicolas1231@gmail.com 
- 
-  
